@@ -1,0 +1,13 @@
+.nav-link {
+    color: #05386B !important;
+    font-family: MainFont;
+    font-size: x-large;
+    }
+    @font-face {
+        font-family: MainFont;
+        src: url(Fonts/BAHNSCHRIFT.TTF);
+      }
+#HomeImage{
+  width:38%;
+  height: 93%;
+}
