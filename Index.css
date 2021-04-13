@@ -7,7 +7,23 @@
         font-family: MainFont;
         src: url(Fonts/BAHNSCHRIFT.TTF);
       }
+
+
+.nav-link{
+  font-size: xx-large;
+}
+
 #HomeImage{
-  width:38%;
-  height: 93%;
+  width:40%;
+  height: 91.7%;
+  float:left;
+}
+#titletext{
+  font-family: MainFont;
+  float:right;
+  width:45%;
+  height: 20%;
+  font-size: 700%;
+  color: white;
+  margin-top: 10%;
 }
