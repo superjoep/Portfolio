@@ -6,7 +6,7 @@
     @font-face {
         font-family: MainFont;
         src: url(Fonts/BAHNSCHRIFT.TTF);
-      }
+    }
 
 
 .nav-link{
@@ -14,10 +14,32 @@
 }
 
 #HomeImage{
-  width:40%;
-  height: 91.7%;
+  width:38%;
+  height:91.7%;
   float:left;
 }
+#ProjectTitle{
+  font-family: MainFont;
+  font-size: 500%;
+  color: #05386B;
+  text-align: center;
+}
+#ProjectsText{
+  font-family: MainFont;
+  font-size: 500%;
+  color: white;
+  text-align: center;
+}
+.flex-container{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3%;
+  justify-content: center; 
+}
+
 #titletext{
   font-family: MainFont;
   float:right;
@@ -26,4 +48,28 @@
   font-size: 700%;
   color: white;
   margin-top: 10%;
+}
+#AboutMeTitle{
+  font-family: MainFont;
+  float:left;
+  width:45%;
+  height: 20%;
+  font-size: 700%;
+  color: white;
+  margin-top: 10%;
+}
+#maintext{
+  font-family: MainFont;
+  float:left;
+  width:50%;
+  height: 20%;
+  font-size: 120%;
+  color: white;
+ 
+}
+#AboutImage{
+  width:40%;
+  height:91.7%;
+  float:right;
+  margin-right: 5%;
 }

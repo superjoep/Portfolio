@@ -11,13 +11,13 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav mx-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="../Index.php">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="Index.php">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="AboutMe.php">About Me</a>
+          <a class="nav-link" href="Pages/AboutMe.php">About Me</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Projects.php">Projects</a>
+          <a class="nav-link" href="Pages/Projects.php">Projects</a>
         </li>
       </ul>
     </div>
