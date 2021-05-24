@@ -10,7 +10,10 @@ include '../Includes/Header.php';
   <h1 id="AboutMeTitle">About Me</h1>
   <div id="maintext">
   <p>
-  Risus in hendrerit gravida rutrum quisque non tellus. Eu volutpat odio facilisis mauris sit amet. Tincidunt nunc pulvinar sapien et ligula ullamcorper. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Nullam eget felis eget nunc. Gravida in fermentum et sollicitudin ac orci phasellus. Egestas integer eget aliquet nibh praesent tristique magna sit. Magna eget est lorem ipsum dolor sit. Gravida rutrum quisque non tellus orci ac. Magna fringilla urna porttitor rhoncus.
+  Mijn naam is Joep de Kock ik ben 19 jaar oud en woon in Eindhoven.
+Mijn hobby’s zijn reizen, gamen en opstap gaan.	
+Voor deze opleiding heb ik de opleiding Applicatie mediaontwikkeling afgerond op het Summa college. Ik had hiervoor al veel ervaring met websites bouwen en ik heb ook op mijn middelbare school (Sint Lucas) al het een en ander geleerd over het werken met Photoshop en Illustrator.
+In dit semester wou ik erg graag mijn design skills verbeteren aangezien mijn development skills al erg goed zijn. Ook wou ik heel erg graag meer leren over researchen en communicatie.
 </p>
 </div>
   </div>

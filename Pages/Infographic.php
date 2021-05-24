@@ -10,34 +10,41 @@ include '../Includes/Header.php';
 <h1 id="ProjectNameTitle">Infographic</h1>
 </header>
 <body>
-<div class="flex-container3">
-<div class="flex-container">
-  <div id="projectsection"><h1 id="HeaderProject">Wat heb ik Gemaakt?</h1>
+
+<div class="flex-container-row">
+  <div id="projectsection"><h1 id="HeaderProject">Wat wilde ik doen?</h1>
   <div id="ProjectPageText">
         <p>
-        Voor het maken van mijn Infographic heb ik het thema windows gekozen aangezien hier een grote geschiedenis achter zit en het een van de belangerijkste producten is geweest in de ICT wereld.
-        Ik heb de infographic gemaakt in de windows vista style zodat het design goed bij het thema zou passen.
+        Voor de focus gamification kreeg ik de opdracht om een infographic te maken. Aangezien ik dit nog niet eerder gemaakt heb ben ik begonnen met het researchen van wat een infographic precies in houdt.
+        Nadat ik verschillende voorbeelden heb opgezocht en inspiratie heb opgedaan ging ik nadenken waar ik mijn infographic over wou maken. Uiteindelijk kwam ik uit op het onderwerp Windows omdat ik dit zelf erg interessant vind en er veel geschiedenis achter zit. Nadat ik het onderwerp had ging ik opzoeken hoe ik het apa handboek doornemen om te kijken hoe ik alles volgens de apa richtlijnen moet schrijven.
         </p>
         </br>
-        <h1 id="HeaderProject">Wat heb ik geleerd?</h1>
+        <h1 id="HeaderProject">Hoe heb ik het gedaan?</h1>
         <p>
-        Ik heb vooral leren te werken in APA style aangezien ik dit nog nooit eerder gedaan had. Ook heb ik meer geleerd over photoshop en natuurlijk over de geschiedenis van Windows.
-        Ook heb ik goed gekeken en veel geleerd over de bronnen die ik gebruikte voor de infographic
+        Nadat ik mijn research gedaan had en wist hoe ik aan de slag moest gaan ben ik begonnen met het maken van een design in Photoshop. Ik heb de Windows stijl van Windows Vista aangehouden aangezien ik dit een erg mooie en herkenbare stijl vind. Toen ik de lay-out van het design af had ben ik begonnen met research te doen over Windows. Ik heb hierbij vooral op Wikipedia gekeken aangezien hier de geschiedenis van Windows erg gedetailleerd op stond. Nadat ik alle informatie verzameld had ben ik de infographic volgens de apa richtlijnen gaan opvullen. Vervolgens heb ik alle bronnen verzamelt om hiermee een bronnen lijst te maken en heb ik mijn infographic opgeslagen als pdf.
         </p>
+        </br>
+        <h1 id="HeaderProject">Hoe kijk ik erop terug?</h1>
+        <p>
+          
+        Ik kijk erg positief terug op de opdracht die ik gemaakt heb en ik ben blij met het resultaat.
+      wel heb ik feedback ontvangen van docenten met dingen die ik in het vervolg beter kan doen.
+      Dit was vooral dat er te veel tekst in mijn infographic stond en dat de bronnenlijst te lang was.
+      In het vervolg zal ik dus meer laten zien doormiddel van plaatjes in plaats van tekst.
+</p>
+</br>
     </div>
     
 </div>
+<div class="flex-container-column">
   <div id="ProjectImage1"><img src="../Images/InfoGraphic/infographicwindows.png"></div>
-</div>
-
-<div class="flex-container2">
-  <div id="projectsection2"><h1 id="HeaderProject">Wat kon beter?</h1>
   <div id="ProjectPageText">
-        <p>
-        Als feedback heb ik vooral gekregen dat ik in het vervolg minder tekst moet gebruiken en meer uitleg moet geven met afbeeldingen. Ook moet de bronnenlijst korter aangezien deze nu heel erg lang is.</p>
-    </div>
+                <h1 id="HeaderProject">Bronnen</h1>
+                <p id="projectsectiontext">
+                    <a href="http://itswww.uvt.nl/lis/es/apa/apa-handleiding.pdf">APA Richtlijnen</a></br>
+                    <a href="https://nl.pinterest.com/pin/158118636890910857/">Inspiratie</a>
+                </p> 
 </div>
-  <div id="ProjectImage2"><img src="../Images/InfoGraphic/infographicwindows.png"></div>
 </div>
 </div>
 
