@@ -95,16 +95,17 @@ include '../Includes/Header.php';
                             
         </div>
     </div>
-    
+
     <div class="flex-container-column">
         <div class="flex-container-row2">
                         <div id="projectsection">
                             <div>
                                 
                                 <div id="ProjectPageText">
-                                    <h1 id="HeaderProject">Bootstrap</h1>
+                                    <h1 id="HeaderProject">Uitklap menu</h1>
                                     <p>
-                                        Om het uitklap menu te maken heb ik Bootstrap gebruikt, dit heb ik gedaan omdat bootstrap erg gemakkelijk werkt en ook alles responsive maakt. Ik heb via de documentatie van bootstrap alles opgezocht en ik heb hierdoor ook erg veel over Boostrap geleerd. 
+                                        
+                                        Om het uitklap menu te maken heb ik met Javacript gewerkt. Ik heb een div aangemaakt die aan de rechterkant staat, deze div heb ik opgevult met alle menu items en een close knop. Wanneer de function OpenNav wordt aangeroepen maakt die vervolgens de width van de div breder waardoor het menu uitklapt. Wanneer er op de close knop wordt geklikt wordt de width weer naar 0 gezet waardoor het uitklap menu weer inklapt.
                                     </p>
                                     </br>
                                 </div>  
@@ -114,7 +115,11 @@ include '../Includes/Header.php';
 
                 <div class="flex-container-column ImageSection2">
                     <div id="ProjectImage2">
-                        <img src="../Images/WebsiteLeela/Flexboxes.png">
+                        <img src="../Images/WebsiteLeela/uitklapmenu.png">
+                    </div>
+</br>
+                    <div id="ProjectImage2">
+                        <img src="../Images/WebsiteLeela/sidenavcss.png">
                     </div>
                 </div>      
         </div>

@@ -44,6 +44,19 @@ include '../Includes/Header.php';
                     <a href="http://itswww.uvt.nl/lis/es/apa/apa-handleiding.pdf">APA Richtlijnen</a></br>
                     <a href="https://nl.pinterest.com/pin/158118636890910857/">Inspiratie</a>
                 </p> 
+
+                <h1 id="HeaderProject">Feedback</h1>
+                <p id="projectsectiontext">
+                    <a style="font-weight: bold;">Martijn Boegheim:</a> </br>
+                    De infographic was leuk gemaakt. Die .bat files waren leuk bedacht. Het enigste wat ik hier nog bij kan bedenken is dat je misschien de tijdlijn ook nog in de windows style had kunnen doen en misschien een betere kwaliteit menu balk had kunnen plaatsen onderin. Verder leuk idee, goed uitgewerkt!    </br>
+                    </br>
+                    <a style="font-weight: bold;" >Maud Saris:</a></br>
+                     Een nostalgische & overzichtelijke infographic. Het is leuk om de oude windows achtergrond weer een keer te zien en de informatie blokken staan er ook goed bij. Het past echt bij het onderwerp.
+                     </br>
+                     </br>
+                     <a style="font-weight: bold;" >Nick Welman:</a></br>
+                     je kunt je afvragen of dit wel een 'graphic' (beeld) is, of gewoon vriendelijk vormgegeven tekst, maar de ontwikkeling van het Windows-icoon is sprekend en dat maakt veel goed - inderdaad zet de typische Windows-achtergrond de sfeer goed neer en dat geldt ook voor de typische Windows-pop-up screens - dus alles bij elkaar klopt dat - de bronnenlijst is voor zo'n infographic als dit way-over-the-top - er staat teveel tekst in de pop-up-screens - voor een volgende keer: maak eerst eens een infographic zonder enige tekst en kijk eens of mensen die begrijpen - voeg daarna pas hoogst noodzakelijke tekst toe
+                    </p> 
 </div>
 </div>
 </div>

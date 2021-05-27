@@ -7,6 +7,19 @@ include 'Includes/Header2.php';
 <body style="background-color: #5CDB95;">
   <img src="Images/DrawingMyself.png" id="HomeImage">
   <div class="content">
-  <h1 id="titletext">Joep</br>de</br>Kock.</br></h1>
+   
+  <div class="words word-1">
+  <h1 class="TitleJoep"> Joep de Kock</h1>
+  <span>P</span>
+  <span>O</span>
+  <span>R</span>
+  <span>T</span>
+  <span>F</span>
+  <span>O</span>
+  <span>L</span>
+  <span>I</span>
+  <span>O</span>
+</div>
+
   </div>
 </body>
