@@ -15,22 +15,16 @@ include '../Includes/Header.php';
   <div id="projectsection"><h1 id="HeaderProject">Wat wilde ik doen?</h1>
   <div id="ProjectPageText">
         <p>
-        Voor de focus gamification kreeg ik de opdracht om een infographic te maken. Aangezien ik dit nog niet eerder gemaakt heb ben ik begonnen met het researchen van wat een infographic precies in houdt.
-        Nadat ik verschillende voorbeelden heb opgezocht en inspiratie heb opgedaan ging ik nadenken waar ik mijn infographic over wou maken. Uiteindelijk kwam ik uit op het onderwerp Windows omdat ik dit zelf erg interessant vind en er veel geschiedenis achter zit. Nadat ik het onderwerp had ging ik opzoeken hoe ik het apa handboek doornemen om te kijken hoe ik alles volgens de apa richtlijnen moet schrijven.
-        </p>
+        Voor de intercultural awerness opdracht moesten we een land uitkiezen en hier vervolgens een onderzoeksverslag over schrijven doormiddel van Hofstede Insights. Dit verslag moet volledig in APA-stijl en volgens de APA-richtlijnen. Ik heb voor deze opdracht het land Finland gekozen omdat dit land mij heel erg inspireert en omdat Finland bekent staat als hij blijste land in de wereld. Daarom wilde ik ook erg graag onderzoek gaan doen naar waarom Finland bekent staat als het blijste land en of met welke aspecten dit te maken heeft.  </p>
         </br>
         <h1 id="HeaderProject">Hoe heb ik het gedaan?</h1>
         <p>
-        Nadat ik mijn research gedaan had en wist hoe ik aan de slag moest gaan ben ik begonnen met het maken van een design in Photoshop. Ik heb de Windows stijl van Windows Vista aangehouden aangezien ik dit een erg mooie en herkenbare stijl vind. Toen ik de lay-out van het design af had ben ik begonnen met research te doen over Windows. Ik heb hierbij vooral op Wikipedia gekeken aangezien hier de geschiedenis van Windows erg gedetailleerd op stond. Nadat ik alle informatie verzameld had ben ik de infographic volgens de apa richtlijnen gaan opvullen. Vervolgens heb ik alle bronnen verzamelt om hiermee een bronnen lijst te maken en heb ik mijn infographic opgeslagen als pdf.
-        </p>
+        Voor het verslag ben ik begonnen met het doorlezen van de APA-richtlijnen zodat ik precies wist hoe ik alles moest gaan documenteren. Toen ik dit allemaal doorgelezen had ben ik begonnen met onderzoek te doen naar Finland. Ik kwam eropuit dat ik via de website Hofstede Insights en Socialprogress heel erg veel kon vinden over de cijfers van verschillende aspecten van Finland. Hierdoor heb ik dus goed kunnen onderzoeken waarom Finland nou zo blij is. Toen ik alle informatie had heb ik alles in een InDesign project gezet en heb ik plaatjes opgezocht die ik goed vond passen bij de onderwerpen die ik behandelde. Toen alle tekst erin stond heb ik een bronnenlijst gemaakt en de juiste informatie aan de juiste bron gelinkt zodat alles goed in APA-stijl staat. Daarna ben ik nog over alle APA-richtlijnen gegaan om te kijken of ik nog iets miste zodat alles helemaal goed was voor oplevering.  </p>
         </br>
         <h1 id="HeaderProject">Hoe kijk ik erop terug?</h1>
         <p>
           
-        Ik kijk erg positief terug op de opdracht die ik gemaakt heb en ik ben blij met het resultaat.
-      wel heb ik feedback ontvangen van docenten met dingen die ik in het vervolg beter kan doen.
-      Dit was vooral dat er te veel tekst in mijn infographic stond en dat de bronnenlijst te lang was.
-      In het vervolg zal ik dus meer laten zien doormiddel van plaatjes in plaats van tekst.
+        Ik kijk erg positief terug op de opdracht en ik heb er heel veel van geleerd, ik wist eerst nog niet hoe ik iets goed in APA-stijl kon schrijven maar nadat ik de richtlijnen meerdere keren had doorgelezen werd dit steeds duidelijker. Ook vond ik het onderzoek zelf heel erg leuk en interessant om te doen en ik ben erg blij met de resultaten die eruit zijn gekomen.
 </p>
 </br>
     </div>

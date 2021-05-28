@@ -7,6 +7,6 @@ include '../Includes/Header.php';
 <body style="background-color: #5CDB95;">
 <div class="flex-container">
     <h1 id="ProjectTitle">Professional identity</h1>
-    <a id="ProjectsText" href="#">Zelf Reflectie</a>
+    <a id="ProjectsText" href="Zelfreflectie.php">Zelf Reflectie</a>
 </div>
 </body>

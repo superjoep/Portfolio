@@ -7,8 +7,8 @@ include '../Includes/Header.php';
 <body style="background-color: #5CDB95;">
 <div class="flex-container">
     <h1 id="ProjectTitle">Communication</h1>
-    <a id="ProjectsText" href="#">Docenten</a>
-    <a id="ProjectsText" href="#">Studenten</a>
-    <a id="ProjectsText" href="#">Presentatie</a>
+    <a id="ProjectsText" href="CommunicatieDocenten.php">Docenten</a>
+    <a id="ProjectsText" href="CommunicatieStudenten.php">Studenten</a>
+    <a id="ProjectsText" href="Presentatie.php">Presentatie</a>
 </div>
 </body>

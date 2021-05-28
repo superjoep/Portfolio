@@ -15,7 +15,7 @@ include '../Includes/Header.php';
   <div id="projectsection"><h1 id="HeaderProject">Wat heb ik gedaan?</h1>
   <div id="ProjectPageText">
         <p>
-        Voor het maken van mijn portfolio heb ik verschillende iteraties gemaakt die ik iedere portfolio review heb laten zien. Op basis hiervan kreeg ik feedback een kleur die aantoonde of ik op de goede weg was of niet. Ik zal hier uitleggen wat ik iedere review heb laten zien en wat de feedback hierop was.
+        Voor het maken van mijn portfolio heb ik verschillende iteraties gemaakt die ik iedere portfolio review heb laten zien. Op basis hiervan kreeg ik feedback en een kleur die aantoonde of ik op de goede weg was of niet. Ik zal hier uitleggen wat ik iedere review heb laten zien en wat de feedback hierop was.
          </p>
         </br>
         <h1 id="HeaderProject">Hoe kijk ik erop terug?</h1>

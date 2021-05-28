@@ -54,7 +54,6 @@ include '../Includes/Header.php';
                 <h1 id="HeaderProject">Links</h1>
                 <div id="ProjectPageText">
                 <p id="projectsectiontext">
-                    <a href="http://leelarosa.jdkdesigns.nl/">Website</a></br>
                     <a href="https://github.com/superjoep/Portfolio">Github</a>
                 </p>  
                 <h1 id="HeaderProject">Feedback</h1>

@@ -57,6 +57,7 @@ include '../Includes/Header.php';
                      <a style="font-weight: bold;" >Nick Welman:</a></br>
                      je kunt je afvragen of dit wel een 'graphic' (beeld) is, of gewoon vriendelijk vormgegeven tekst, maar de ontwikkeling van het Windows-icoon is sprekend en dat maakt veel goed - inderdaad zet de typische Windows-achtergrond de sfeer goed neer en dat geldt ook voor de typische Windows-pop-up screens - dus alles bij elkaar klopt dat - de bronnenlijst is voor zo'n infographic als dit way-over-the-top - er staat teveel tekst in de pop-up-screens - voor een volgende keer: maak eerst eens een infographic zonder enige tekst en kijk eens of mensen die begrijpen - voeg daarna pas hoogst noodzakelijke tekst toe
                     </p> 
+</br>
 </div>
 </div>
 </div>
