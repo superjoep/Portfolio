@@ -1,21 +1,26 @@
 .nav-link {
     color: #05386B !important;
     font-family: MainFont;
-    font-size: x-large;
+
+    font-size: 27px;
     }
     @font-face {
         font-family: MainFont;
         src: url(Fonts/BAHNSCHRIFT.TTF);
     }
 
-
-.nav-link{
-  font-size: xx-large;
+    .nav-link:hover{
+      color: #0a7cee !important;
+    }
+.navbar{
+  margin-right: 12%;
 }
-
+.nav-item{
+  margin-left: 20%;
+}
 #HomeImage{
-  width:38%;
-  height:91.7%;
+  width:auto;
+  height:92vh;
   float:left;
   margin-left: 5%;
 }

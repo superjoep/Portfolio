@@ -8,6 +8,6 @@ include '../Includes/Header.php';
 <div class="flex-container">
     <h1 id="ProjectTitle">Research</h1>
     <a id="ProjectsText" href="Infographic.php">Infographic</a>
-    <a id="ProjectsText" href="IntAwerness">Intercultural Awereness</a>
+    <a id="ProjectsText" href="IntAwerness.php">Intercultural Awereness</a>
 </div>
 </body>

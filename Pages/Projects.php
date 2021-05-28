@@ -11,6 +11,6 @@ include '../Includes/Header.php';
     <a id="ProjectsText" href="Design.php">- Design</a>
     <a id="ProjectsText" href="Research.php">- Research</a>
     <a id="ProjectsText" href="Communication.php">- Communication</a>
-    <a id="ProjectsText" href="ProfIdentity">- Prof. identity</a>
+    <a id="ProjectsText" href="ProfIdentity.php">- Prof. identity</a>
 </div>
 </body>
