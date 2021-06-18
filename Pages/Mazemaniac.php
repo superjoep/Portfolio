@@ -83,6 +83,7 @@ include '../Includes/Header.php';
                                     <p>
                                     Aangezien er heel erg veel code in dit project zit vond ik het een goed idee om er in een video helemaal door heen te lopen zodat je precies kan zien hoe ik alles gedaan heb en waarom. </p>
                                     Hier links zie je de video waarin ik uitleg geef over de code.
+                                    Alle code heb ik zelf geschreven tenzij ik aan geef dat dit niet zo is.
                                     </div>  
                                 
                             </div>

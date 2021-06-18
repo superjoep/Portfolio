@@ -30,7 +30,7 @@ include '../Includes/Header.php';
                 <h1 id="HeaderProject">Bronnen</h1>
                 <p id="projectsectiontext">
                     <a href="RPS/Index.html">Spelen</a></br>
-                    <a href="https://nl.pinterest.com/pin/158118636890910857/">Github</a>
+                    <a href="https://github.com/superjoep/Portfolio/tree/master/Pages/RPS">Github</a>
                 </p> 
 
 
@@ -48,7 +48,7 @@ include '../Includes/Header.php';
                                     <div id="ProjectPageText">
                                     <h1 id="HeaderProject">Javascript</h1>
                                     <p>
-                                    Om te beginnen heb ik een random variabel aangemaakt die een random nummer aanmaakt tussen de 1 en 3, deze nummers gelden dus voor steen, papier en schaar. Vervolgens wordt er op basis van de knop die ingedrukt wordt door de gebruiker een nummer tussen de 1 en 3 gesigneerd aan een variabel. Deze nummers worden vergeleken met elkaar in een if else statement om te kijken wie de winnaar is. Vervolgens worden deze nummers omgezet in de bijhorende naam doormiddel van een list. Hierbij geld dat het nummer 1 rock is, het nummer 2 paper en het nummer 3 scissor. Deze worden vervolgens doorgeven naar de html zodat de winnaar word getoont.   </p>
+                                    Om te beginnen heb ik een random variabel aangemaakt die een random nummer aanmaakt tussen de 1 en 3, deze nummers gelden dus voor steen, papier en schaar. Vervolgens wordt er op basis van de knop die ingedrukt wordt door de gebruiker een nummer tussen de 1 en 3 gesigneerd aan een variabel. Deze nummers worden vergeleken met elkaar in een if else statement om te kijken wie de winnaar is. Vervolgens worden deze nummers omgezet in de bijhorende naam doormiddel van een list. Hierbij geld dat het nummer 1 rock is, het nummer 2 paper en het nummer 3 scissor. Deze worden vervolgens doorgeven naar de html zodat de winnaar wordt getoont.   </p>
                                     </br>
                                     </div>  
                                 

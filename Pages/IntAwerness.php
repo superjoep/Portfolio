@@ -40,7 +40,7 @@ include '../Includes/Header.php';
 
                 <h1 id="HeaderProject">Feedback</h1>
                 <p id="projectsectiontext">
-                   Nog geen feedback gekregen
+                De feedback van Nick was vooral dat ik de opdracht helemaal fout begrepen heb. Ook zei hij dat het verslag veel typefouten heeft en niet goed in apa stijl geschreven is. Ik heb samen met Nick hier nog over gebeld zodat ik zeker weet dat ik het in mijn verslag van sprint x wel goed zal gaan doen.
 </div>
 </div>
 </div>

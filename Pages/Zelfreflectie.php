@@ -43,13 +43,39 @@ Ook wilde ik nog meer leren over development en dan vooral het maken van een gam
         In de toekomst wil ik erg graag werken aan mijn minpunten en ervoor zorgen dat ik niet meer tegen deze dingen aanloop. Ook wil ik heel erg graag meer leren over gamedesign omdat ik de gamification opdracht heel erg leuk vond om te maken. Daarnaast wil ik mijn pitch en presentatie skills verbeteren zodat ik minder nerveus ben en met meer enthousiasme mijn product kan gaan pitchen. In het vervolg wil ik ook meer gaan plannen zodat ik beter op schema loop en daardoor minder stress heb.
 </p>
 </br>
+<h1 id="HeaderProject">Interactive media</h1>
+        <p>
+        Voor interactive media dit semester heb ik ervoor gezorgd dat ik verschillende iteraties en prototypes maak voordat ik begin aan het daadwerkelijke eindproduct. Ik heb dit gedaan met het glow project maar ook heb ik dit gedaan voor de websites die ik gemaakt heb.</p>
+</br>
+<h1 id="HeaderProject">Development</h1>
+        <p>
+        Voor het onderdeel development wilde ik erg graag meer leren over nieuwe onderdelen van html en wilde ik meer leren over c#. Vandaar dat ik vooral mijn tijd hierbij gestopt heb in mijn gamificatie opdracht en niet in javascript POC’s.</p>
+</br>
+<h1 id="HeaderProject">Design</h1>
+        <p>
+        Voor het design heb ik gekozen om vooral te focussen op het webdesign gedeelte aangezien ik hier meer over wou leren. Ook heb ik hierbij wat logos ontworpen en de mediatechniek opdracht gemaakt. Dit liep allemaal erg soepel en ik heb veel geleerd over kleurgebruik en de Adobe programma’s.</p>
+</br>
+<h1 id="HeaderProject">Research</h1>
+        <p>
+        Research heb ik vooral aangetoond doormiddel van mijn sprint x project. Dit omdat ik het veel leuker vond om iets te researchen waar ik daadwerkelijk ook gebruik van kan maken. Daarnaast heb ik wel nog een infographic gemaakt en de intercultural awerness opdracht om beter te leren werken in APA style. Hieruit heb ik heel erg veel geleerd over documenteren in APA en onderzoeken.</p>
+</br>
+<h1 id="HeaderProject">Communication</h1>
+        <p>
+        Bij het leerdoel communicatie heb ik laten zien dat ik goede communicatie skills heb bij het werken binnen een groep. Ook toon ik hierbij aan wat ik gedaan heb qua presenteren en contact met docenten. Dit verliep allemaal erg goed en ik heb mezelf hierin erg verbeterd ondanks dat we vanuit thuis moesten werken.</p>
+</br>
+<h1 id="HeaderProject">Professional identity</h1>
+        <p>
+        Voor het leerdoel professional identity heb ik aangetoond dat ik mijzelf professioneel presenteer als media designer. Ik laat zien welke keuzen ik gemaakt heb en waarom daarnaast heb ik een portfolio die aantoont wat ik gemaakt heb.</p>
+</br>
     </div>
     
 </div>
 <div class="flex-container-column">
   <div id="MezelfImage"><img src="../Images/Comm/Mezelf.jpg"></div>
-  
+</br>
+  <div id="MezelfImage"><img src="../Images/Comm/Leerling.jpg"></div>
 </div>
+
 </div>
 
 </body>

@@ -20,7 +20,7 @@ include '../Includes/Header.php';
         </br>
         <h1 id="HeaderProject">Hoe kijk ik erop terug?</h1>
         <p>
-        Dit wordt later ingevuld</p>
+        Ik kijk niet heel erg positief terug op de portfolio reviews omdat ik er in het begin veel te weinig aan gewerkt heb. Wel ben ik blij dat je per review kan zien dat het in een stijgende lijn beter wordt en ik zeker voortgang maken.</p>
 </br>
     </div>
     
@@ -71,8 +71,7 @@ include '../Includes/Header.php';
                                 <div id="ProjectPageText">
                                     <h1 id="HeaderProject">Review 2</h1>
                                     <p>
-                                    De tweede portfolio review ging helaas ook niet erg goed, door de achterstand die ik de sprint daarvoor had opgebouwd had ik weinig tijd om aan het portfolio te besteden. Ik heb wel het design opgevuld met content maar dit was ver van genoeg. Het is dus zeker van belang dit ik de volgende review veel meer kan laten zien, ik kreeg voor deze oplevering dan ook een oranje light. </br>
-                                    <h1 id="HeaderProject">Feedback</h1>
+                                   De derde portfolio review ging veel beter dan de vorige, ik had heel erg hard doorgewerkt aan mijn portfolio om ervoor te zorgen dat er nu wel een website staat die volledig opgevuld is met de juist content en teksten. Dit is gelukkig goed gelukt en ik ben erg blij met wat ik deze review heb kunnen laten zien.   <h1 id="HeaderProject">Feedback</h1>
                                     <p>
                                     Als feedback kreeg ik dat ik de portfolio items veel beter moet toelichten omdat ze nu een onmogelijk beeld kregen van wat ik had gedaan. Ook moet ik beter gaan aangeven wie nou wat gedaan heeft per project aangezien ze vaker dezelfde portfolio items terug zagen komen. Verder moet ik ook nog veel meer content erin gaan zetten.
                                     </br>
@@ -93,5 +92,31 @@ include '../Includes/Header.php';
         </div>
     </div>
 
-   
+    <div class="flex-container-column">
+        <div class="flex-container-row2">
+                        <div id="projectsection">
+                            <div>
+                                
+                                <div id="ProjectPageText">
+                                    <h1 id="HeaderProject">Review 3</h1>
+                                    <p>
+                                    De derde portfolio review ging veel beter dan de vorige, ik had heel erg hard doorgewerkt aan mijn portfolio om ervoor te zorgen dat er nu wel een website staat die volledig opgevuld is met de juist content en teksten. Dit is gelukkig goed gelukt en ik ben erg blij met wat ik deze review heb kunnen laten zien.     <h1 id="HeaderProject">Feedback</h1>
+                                    <p>
+                                    De feedback die ik deze review kreeg was veel beter dan de andere reviews die ik gehad had. Wel kreeg ik als feedback dat ik meer terug moest laten komen bij interactive media. Dit ga ik doen door het prototype van de website van Leela Rosa erin te zetten. Daarnaast wilde ze meer terugzien van javascript, dit zal ik doen door een javascript POC te maken. Ook wilde ze de specialisaties terugzien bij het prof id gedeelte van het portfolio dit ga ik dan ook gelijk toevoegen. Voor de rest vonden ze dat ik goed op weg was en hadden ze niks aan te merken.  </br>
+                                    </br>
+                                    <a href="http://portfolio.jdkdesigns.nl/">Portfolio Review 3</a>
+                                    </p>
+                                </div>  
+                                
+                            </div>
+                        </div>
+
+                <div class="flex-container-row ImageSection2">
+                    <div id="PortfolioImages1">
+                        <img src="../Images/PortfolioPrototype/Review3.png">
+                    </div>
+         
+                </div>      
+        </div>
+    </div>
 </body>
